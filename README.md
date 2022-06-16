@@ -2,7 +2,7 @@
 
 
 
-Full procedure at: https://medium.com/yavar/amazon-s3-bucket-migration-between-aws-account-93651b818f43
+Full procedure at: https://medium.com/@theankitojha/aws-s3-bucket-migration-between-different-aws-accounts-15c7dba0454a
 
 Various steps involved in s3 bucket migration from one AWS account to another are:
 
